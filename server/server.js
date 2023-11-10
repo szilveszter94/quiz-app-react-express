@@ -12,7 +12,7 @@ const mongoString = process.env.MONGO_STRING;
 const MONGO_URL = `mongodb+srv://${username}:${password}@cluster0.${mongoString}.mongodb.net/quizzy?retryWrites=true&w=majority`;
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 mongoose.set("strictQuery", false);
 mongoose.connect(MONGO_URL);
 
