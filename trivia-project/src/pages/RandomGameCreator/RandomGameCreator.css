@@ -1,0 +1,14 @@
+
+.setup-input-field-container {
+    border: solid rgb(166, 160, 160) 2px;
+    border-radius: 15px;
+}
+
+.game-setup-input-field-title {
+    font-family: 'Righteous', sans-serif;
+}
+
+.game-setup-input-field-subtitle {
+    font-family: 'Righteous', sans-serif;
+    font-size: large;
+}

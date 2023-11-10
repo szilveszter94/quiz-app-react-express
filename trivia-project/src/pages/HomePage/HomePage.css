@@ -1,0 +1,18 @@
+.main {
+    height: 100vh;
+    color: white;
+}
+
+.home-page-title {
+    font-family: 'Righteous', sans-serif;
+    font-size: 4rem;
+}
+
+.home-page-subtitle {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 1.3rem;
+}
+
+.play-button-container a {
+    text-decoration: none;
+}

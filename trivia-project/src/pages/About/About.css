@@ -1,0 +1,18 @@
+.about {
+    height: 100vh;
+    background-color: rgb(36, 35, 35);
+    color: white;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.about-title { 
+    font-family: 'Righteous', sans-serif;
+    font-size: 4rem;
+}
+
+
+td, th {
+    background: rgba(1, 29, 32, 0.311) !important ;
+    font-size: larger;
+    font-weight: 600;
+}
